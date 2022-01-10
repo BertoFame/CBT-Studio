@@ -1,1 +1,1 @@
-jdbc:mysql://163.123.183.90:17211/CBT_Studio?user=CBT Studio&password=Gmail212
+jdbc:mysql://163.123.183.85:12010/CBT_Studio?user=CBT Studio&password=Gmail212
