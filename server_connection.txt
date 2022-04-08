@@ -1,1 +1,1 @@
-host=mysql-73839-0.cloudclusters.net; Port=10131; Database=CBT_Studio; username=CBT Studio; password=Gmail212;
+host=mysql-75141-0.cloudclusters.net; Port=12296; Database=CBT_Studio; username=CBT Studio; password=Gmail212;
