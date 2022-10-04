@@ -1,1 +1,1 @@
-host=server60.web-hosting.com; Port=21098; Database=bertdmvh_cbt_studio; username=bertdmvh_CBT_Studio; password=Gmail212,;
+host=127.0.0.1; Port=2244; Database=bertdmvh_cbt_studio; username=bertdmvh_CBT_Studio; password=Gmail212,;
