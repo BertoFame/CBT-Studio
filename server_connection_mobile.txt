@@ -1,1 +1,1 @@
-jdbc:mysql://127.0.0.1:2244/bertdmvh_cbt_studio?user=bertdmvh_CBT_Studio&password=Gmail212
+jdbc:mysql://127.0.0.1:2244/bertdmvh_cbt_studio?user=bertdmvh_CBT_Studio&password=Gmail212,
